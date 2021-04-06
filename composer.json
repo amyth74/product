@@ -1,0 +1,13 @@
+{
+    "name": "amyth/products",
+    "description": "Products All Operations in one go",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amyth74",
+            "email": "acharyaamit74@gmail.com"
+        }
+    ],
+    "require": {}
+}
